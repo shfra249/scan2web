@@ -300,9 +300,7 @@ just one file. Double-clicking it starts the HTTP server on port 5000 and
 shows the tray icon; no Python installation is required on the target
 machine.
 
-To have it start automatically with Windows, place a shortcut to
-`ScannerBridge.exe` in:
-`shell:startup` (Win+R → paste → Enter).
+
 
 ## 6. Auto-start on Windows boot
 
