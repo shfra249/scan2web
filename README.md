@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# خدمة ربط الماسح الضوئي (Scanner Bridge Service)
+# خدمة ربط الماسح الضوئي (Scanner Bridge Service) بتطبيقات الويب عن طريق API
 
 <p align="right">
   <a href="#scanner-bridge-service">English</a> | العربية
