@@ -331,3 +331,4 @@ reg delete "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v LocalScannerA
 - If Windows Firewall prompts on first run, allow access so other machines on
   your network can reach port 5000 (or block it if you only want localhost
   access — change `HOST` in `scanner_service.py` to `"127.0.0.1"`).
+<meta name="google-site-verification" content="1-iwf-2pUmi_GDzCgrn_REjwxgbYwZFRbFDDB0kc27I" />
